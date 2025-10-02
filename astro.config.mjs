@@ -4,8 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://lucas6rm.github.io',
-    base: '/mon_activite_psy/docs',
+    site: 'https://lucas6rm.github.io/',
 	integrations: [
 		starlight({
             locales: {
