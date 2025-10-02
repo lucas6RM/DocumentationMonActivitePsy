@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "documentation_mon_activite_psy",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,8 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/check": "^0.9.4",
     "@astrojs/starlight": "^0.36.0",
     "astro": "^5.6.1",
-    "sharp": "^0.34.2"
+    "sharp": "^0.34.2",
+    "typescript": "^5.9.3"
   }
 }
