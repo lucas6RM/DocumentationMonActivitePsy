@@ -6,19 +6,34 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+            locales: {
+                root: {
+                    label: 'Français',
+                    lang: 'fr-FR',
+                },
+            },
+			title: 'Mon Activité Psy - Docs',
+			social: [
+                {
+                icon: 'facebook', label: 'Facebook',
+                href: 'https://github.com/withastro/starlight'
+                },
+                {
+                    icon: 'linkedin', label: 'LinkedIn',
+                    href: 'https://github.com/withastro/starlight'
+                },
+                {
+                    icon: 'instagram', label: 'Instagram',
+                    href: 'https://github.com/withastro/starlight'
+                },
+            ],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'LEGAL',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Politique de confidentialite', slug: 'legal/privacies' },
 					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
 				},
 			],
 		}),
