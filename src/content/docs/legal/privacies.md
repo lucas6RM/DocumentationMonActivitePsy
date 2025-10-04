@@ -1,6 +1,6 @@
 ---
 title: Politique de confidentialité - Application Mon activité Psy
-description: blabla
+description: ...
 ---
 Dernière mise à jour : 26 septembre 2025
 

@@ -18,15 +18,15 @@ export default defineConfig({
 			social: [
                 {
                 icon: 'facebook', label: 'Facebook',
-                href: 'https://github.com/withastro/starlight'
+                href: 'https://lucas6rm.github.io/LandingPageMonActivitePsy/'
                 },
                 {
                     icon: 'linkedin', label: 'LinkedIn',
-                    href: 'https://github.com/withastro/starlight'
+                    href: 'https://lucas6rm.github.io/LandingPageMonActivitePsy/'
                 },
                 {
                     icon: 'instagram', label: 'Instagram',
-                    href: 'https://github.com/withastro/starlight'
+                    href: 'https://lucas6rm.github.io/LandingPageMonActivitePsy/'
                 },
             ],
 			sidebar: [
