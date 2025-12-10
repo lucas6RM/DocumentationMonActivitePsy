@@ -25,7 +25,7 @@ Ni Apple, ni **Mon Activité Psy** n’y ont accès.
 ## 2. Abonnements & achats intégrés
 L’application propose un abonnement mensuel via l’App Store :
 - 1 mois d’essai gratuit
-- puis 0,99 € par mois
+- puis 1,99 € par mois
 
 La gestion de l’abonnement (achat, renouvellement, résiliation) se fait directement via le compte Apple de l’utilisateur.  
 **Mon Activité Psy** n’accède à aucune donnée personnelle relative au paiement.
