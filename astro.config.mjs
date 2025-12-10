@@ -35,6 +35,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Politique de confidentialite', slug: 'legal/privacies' },
+                        { label: 'Conditions d\'utilisations', slug: 'legal/terms_of_use' },
 					],
 				},
 			],
