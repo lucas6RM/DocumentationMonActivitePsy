@@ -152,10 +152,11 @@ Pour toute question concernant ces Conditions d’utilisation :
 
 ---
 
-## 11.Dispositions complémentaires
+## 11. Dispositions complémentaires
 
 Les présentes Conditions d’utilisation complètent les Conditions générales standard d’Apple (EULA - End User License Agreement). En cas de conflit, les présentes conditions prévalent pour l’utilisation de l’application Mon Activité Psy.
 [Lien vers le contrat standard d'Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
 ---
 
 © 2025 Mon Activité Psy — Tous droits réservés
